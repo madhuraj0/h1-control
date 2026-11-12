@@ -1,0 +1,11 @@
+re/
+build/
+.gradle/
+.kotlin/
+local.properties
+.idea/
+*.iml
+.DS_Store
+.devdir/
+macApp/build/
+dist/
